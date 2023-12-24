@@ -1,0 +1,8 @@
+Bar Code 123456789015 is incorrect
+Bar Code 987654321030 is incorrect
+Bar Code 000000000000 scanned successfully
+Bar Code 123456789015 is incorrect
+Bar Code 123456789015 didn't print
+Bar Code 987654321030 is incorrect
+Bar Code 987654321030 didn't print
+Bar Code 000000000000 scanned successfully
